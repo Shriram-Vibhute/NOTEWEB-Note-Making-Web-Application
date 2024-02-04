@@ -1,0 +1,44 @@
+html {
+    background-color: rgba(0, 0, 0, 0.861);
+}
+#login-style {
+    /* From https://css.glass */
+    width: 600px;
+    height: 300px;
+    backdrop-filter: blur(25px) saturate(140%);
+    -webkit-backdrop-filter: blur(25px) saturate(140%);
+    background-color: rgba(255, 255, 255, 0.65);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+    padding: 50px;
+}
+
+#signup-style {
+    width: 600px;
+    height: 500px;
+    backdrop-filter: blur(25px) saturate(140%);
+    -webkit-backdrop-filter: blur(25px) saturate(140%);
+    background-color: rgba(255, 255, 255, 0.65);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+    padding: 50px;
+}
+
+#card-style {
+    backdrop-filter: blur(25px) saturate(140%);
+    -webkit-backdrop-filter: blur(25px) saturate(140%);
+    background-color: rgba(255, 255, 255, 0.866);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+    box-shadow: 0 0 10px rgb(201, 190, 190);
+}
+
+#add-item-style {
+    backdrop-filter: blur(25px) saturate(140%);
+    -webkit-backdrop-filter: blur(25px) saturate(140%);
+    background-color: rgba(255, 255, 255, 0.65);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+    padding: 50px;
+    margin-top: 100px;
+}
